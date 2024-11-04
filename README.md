@@ -19,6 +19,7 @@ Landsat-based remote sensing of surface water dynamics in southern African wetla
 - **Address:** 12 rue 128, 91190 Gif-sur-Yvette  
 - **Email:** florence.hulot@universite-paris-saclay.fr  
 
+**Author/Associate or Co-investigator Information** 
 - **Name:** Kamel SOUDANI  
 - **ORCID:** 0000-0002-3468-5648  
 - **Institution:** Université Paris-Saclay, CNRS, AgroParisTech, Ecologie Systématique et Evolution, 91190, Gif-sur-Yvette, France  
