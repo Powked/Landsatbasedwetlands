@@ -1,4 +1,4 @@
-This readme file was generated on [2024-11-04] by [Alexis ROY]
+This readme file was generated on 2024-11-04 by Alexis ROY
 
 ## GENERAL INFORMATION
 
