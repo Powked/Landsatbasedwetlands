@@ -59,15 +59,13 @@ This work was supported by the French National Program EC2CO (Ecosphère Contine
 **File List**  
 
 1. **Data**  
-   - **Calcul_check.xlsx**: Calculation verification. Not used in the code but included as supporting information.
-
-   *ERA_Precip_Monthly.csv*:  
+   - *Calcul_check.xlsx*:
+   Calculation verification. Not used in the code but included as supporting information.
+   - *ERA_Precip_Monthly.csv*:  
    Cumulative monthly precipitation data from ERA-5, from 1985 to 2020.
-
-   *ERA_Temp_Monthly.csv*:  
+   - *ERA_Temp_Monthly.csv*:  
    Average monthly temperature data from ERA-5, from 1985 to 2020.
-
-   *Images_per_year_WaterMap.csv*:  
+   - *Images_per_year_WaterMap.csv*:  
    Number of Landsat images used to calculate water frequencies.
 
 2. **Points Valid**  
