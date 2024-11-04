@@ -37,7 +37,7 @@ This work was supported by the French National Program EC2CO (Ecosphère Contine
 ## SHARING/ACCESS INFORMATION
 
 - **Licenses/restrictions placed on the data:**  
-  [Specify if applicable]
+ CC-BY
 
 - **Links to publications that cite or use the data:**  
   [Add links if available]
