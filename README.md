@@ -61,29 +61,29 @@ This work was supported by the French National Program EC2CO (Ecosphère Contine
 1. **Data**  
    - **Calcul_check.xlsx**: Calculation verification. Not used in the code but included as supporting information.
 
-2. **ERA_Precip_Monthly.csv**:  
+   *ERA_Precip_Monthly.csv*:  
    Cumulative monthly precipitation data from ERA-5, from 1985 to 2020.
 
-3. **ERA_Temp_Monthly.csv**:  
+   *ERA_Temp_Monthly.csv*:  
    Average monthly temperature data from ERA-5, from 1985 to 2020.
 
-4. **Images_per_year_WaterMap.csv**:  
+   *Images_per_year_WaterMap.csv*:  
    Number of Landsat images used to calculate water frequencies.
 
-5. **Points Valid**  
-   - LANDSAT_DATA_Points_Validation_Complet.xlsx  
-   - LANDSAT_Data_PointsValidation.xls  
-   - LANDSAT_Data_PointsValidation.xlsx  
-   - PTSinfos.csv  
-   - PTSinfos_complet.csv  
-   - TSPTS.csv  
-   - TSPTS_complet.csv  
+2. **Points Valid**  
+   - *LANDSAT_DATA_Points_Validation_Complet.xlsx*  
+   - *LANDSAT_Data_PointsValidation.xls*  
+   - *LANDSAT_Data_PointsValidation.xlsx*  
+   - *PTSinfos.csv*  
+   - *PTSinfos_complet.csv*  
+   - *TSPTS.csv*
+   - *TSPTS_complet.csv*  
      
    Detection and localization data for wetlands validation points used in the paper. Additional information is available in the file.
 
-6. **Code**  
-   - **Validation_of_WFreq_deposit.ipynb**: Code used to validate the efficiency of the methodology.
-   - **Times_Series_ValidationPoints_notPump_dépot.ipynb**: Code used to produce heatmaps of water frequency, and the distribution of precipitation, temperature, water frequency, anomalies, and statistical analysis.
+3. **Code**  
+   - *Validation_of_WFreq_deposit.ipynb*: Code used to validate the efficiency of the methodology.
+   - *Times_Series_ValidationPoints_notPump_dépot.ipynb*: Code used to produce heatmaps of water frequency, and the distribution of precipitation, temperature, water frequency, anomalies, and statistical analysis.
 
 **Relationship between files**  
 `Times_Series_ValidationPoints_notPump_dépot.ipynb` uses `ERA_Precip_Monthly.csv`, `ERA_Temp_Monthly.csv`, `TSPTS_complet.csv`, and `PTSinfos_complet.csv`.
