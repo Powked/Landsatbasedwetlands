@@ -95,4 +95,4 @@ The protocol is detailed in the article *Landsat-based remote sensing of surface
 To process the data, adjust the file paths accordingly.
 
 **People involved with sample collection, processing, analysis, and/or submission**  
-The Google Earth Engine code was mainly written by Kamel SOUDANI, with contributions from Alexis ROY. Data analysis and production were performed by Alexis ROY and Kamel SOUDANI.
+The Google Earth Engine code was mainly written by Kamel SOUDANI, with contributions from Alexis ROY. Data production and analysis were performed by Kamel SOUDANI and Alexis ROY.
