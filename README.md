@@ -13,7 +13,7 @@ Landsat-based remote sensing of surface water dynamics in southern African wetla
 - **Email:** alexis.roy1@universite-paris-saclay.fr  
 
 **Author/Associate or Co-investigator Information**  
-- **Name:** Florence HULOT  
+- **Name:** Florence D. HULOT  
 - **ORCID:** 0000-0002-8897-3987  
 - **Institution:** Université Paris-Saclay, CNRS, AgroParisTech, Ecologie Systématique et Evolution, 91190, Gif-sur-Yvette, France  
 - **Address:** 12 rue 128, 91190 Gif-sur-Yvette  
@@ -95,4 +95,4 @@ The protocol is detailed in the article *Landsat-based remote sensing of surface
 To process the data, adjust the file paths accordingly.
 
 **People involved with sample collection, processing, analysis, and/or submission**  
-The Google Earth Engine code was mainly written by Kamel SOUDANI, with contributions from Alexis ROY. Data production and analysis were performed by Kamel SOUDANI and Alexis ROY.
+The Google Earth Engine code was mainly written by Kamel SOUDANI, with contributions from Alexis ROY. Data production and analysis were performed by Kamel SOUDANI and Alexis ROY, with the essential scientific contribution of Florence D. Hulot.
