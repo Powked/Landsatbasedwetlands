@@ -52,7 +52,7 @@ This work was supported by the French National Program EC2CO (Ecosphère Contine
   If yes, list source(s): [Specify source if applicable]
 
 - **Recommended citation for this dataset:**  
-  [Provide citation if available]
+Roy, A., Hulot, F.D., Soudani, K., Landsat-based remote sensing of surface water dynamics in southern African wetlands in drylands from 1986 to 2022. GitHub. Dataset. https://doi.org/10.5281/zenodo.14035327.
 
 ## DATA & FILE OVERVIEW
 
