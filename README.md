@@ -59,7 +59,7 @@ This work was supported by the French National Program EC2CO (Ecosphère Contine
    Cumulative monthly precipitation data from ERA-5, from 1985 to 2020.
    - *ERA_Temp_Monthly.csv*:  
    Average monthly temperature data from ERA-5, from 1985 to 2020.
-   - *Images_per_year_WaterMap.csv*:  
+   - *Image_Details_Monthly_mNDWI.csv*:  
    Number of Landsat images used to calculate water frequencies.
 
 2. **Points Valid**  
