@@ -63,12 +63,8 @@ This work was supported by the French National Program EC2CO (Ecosphère Contine
    Number of Landsat images used to calculate water frequencies.
 
 2. **Points Valid**  
-   - *LANDSAT_DATA_Points_Validation_Complet.xlsx*  
-   - *LANDSAT_Data_PointsValidation.xls*  
-   - *LANDSAT_Data_PointsValidation.xlsx*  
-   - *PTSinfos.csv*  
+   - *LANDSAT_DATA_Points_Validation_Complet.xlsx*
    - *PTSinfos_complet.csv*  
-   - *TSPTS.csv*
    - *TSPTS_complet.csv*  
      
    Detection and localization data for wetlands validation points used in the paper. Additional information is available in the file.
