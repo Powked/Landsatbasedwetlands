@@ -8,14 +8,16 @@ Landsat-based remote sensing of surface water dynamics in southern African wetla
 **Author/Principal Investigator Information**  
 - **Name:** Alexis ROY  
 - **ORCID:** 0000-0001-7885-4389  
-- **Institution:** Université Paris-Saclay, CNRS, AgroParisTech, Ecologie Systématique et Evolution, 91190, Gif-sur-Yvette, France  
+- **Institution:** Université Paris-Saclay, CNRS, AgroParisTech, Ecologie Systématique et Evolution, 91190, Gif-sur-Yvette, France
+- **Institution:**  Long-Term Socio-Ecological Research site (LTSER) France, Zone Atelier “Hwange”, Hwange National Park, Zimbabwe
 - **Address:** 12 rue 128, 91190 Gif-sur-Yvette  
 - **Email:** alexis.roy1@universite-paris-saclay.fr  
 
 **Author/Associate or Co-investigator Information**  
 - **Name:** Florence D. HULOT  
 - **ORCID:** 0000-0002-8897-3987  
-- **Institution:** Université Paris-Saclay, CNRS, AgroParisTech, Ecologie Systématique et Evolution, 91190, Gif-sur-Yvette, France  
+- **Institution:** Université Paris-Saclay, CNRS, AgroParisTech, Ecologie Systématique et Evolution, 91190, Gif-sur-Yvette, France
+- **Institution:**  Long-Term Socio-Ecological Research site (LTSER) France, Zone Atelier “Hwange”, Hwange National Park, Zimbabwe 
 - **Address:** 12 rue 128, 91190 Gif-sur-Yvette  
 - **Email:** florence.hulot@universite-paris-saclay.fr  
 
